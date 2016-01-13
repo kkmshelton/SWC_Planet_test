@@ -1,2 +1,4 @@
 Mars is sometimes called the "Red Planet"
 There are two moons.
+Mars has mass.
+
